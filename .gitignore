@@ -21,9 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# /src/apis
-# /src/assets
-# /src/components
-# /src/hooks
-# /src/utils
